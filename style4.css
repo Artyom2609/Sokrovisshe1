@@ -1,0 +1,61 @@
+.playbutton {
+	position: absolute;
+	left: 450px;
+	top: 100px;
+	padding: 20px;
+	font-size: 30px;
+	background-color: #FF00FF;
+	border: 2px solid black;
+	border-radius: 20px;
+	font-family: 'Calibri';
+	letter-spacing: 1.5px;
+
+}
+
+[href="https://artyom2609.github.io/Zagadka/"] {
+		position: absolute;
+	left: 460px;
+	top: 210px;
+	padding: 10px;
+	font-size: 25px;
+	background-color: #FF03;
+	border: 2px solid blue;
+	border-radius: 100px;
+	font-family: 'Calibri';
+	letter-spacing: 1.5px;
+
+	color: #7FFFD4
+}
+ 
+.zhirney-shrift {
+	font-weight: bold;
+	position: absolute;
+	left: 280px;
+}
+
+.raspolozheniye{
+}
+
+.raspolozheniye-foto{
+	position: absolute;
+	top:200px;
+	left: 400px;
+}
+
+.raspolozheniye-instruktii{
+	position: absolute;
+	top: 100px;
+	left: 900px;
+}
+
+.r-in{
+	position: absolute;
+	left: 900px;
+	top: 150px;
+}
+
+#adsens {
+margin:10px 0 10px 0;
+}
+
+{
